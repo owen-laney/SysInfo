@@ -4,8 +4,7 @@
 #include <errno.h>
 #include <sys/utsname.h>
 
-int main(void)
-{
+int main(void){
     std::cout << R"(
         .--.
        |o_o |
